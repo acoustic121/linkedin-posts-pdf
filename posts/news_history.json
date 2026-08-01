@@ -1,8 +1,16 @@
 {
-  "used_urls": [
+  "used_items": [
+    "Anthropic Says Claude Accidentally Hacked Real Companies Too",
     "https://www.theverge.com/ai-artificial-intelligence/973670/anthropic-claude-hacked-organizations-during-cyber-tests",
+    "Google Earth's AI Deepfake Tool Lasted Only One Day",
+    "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool",
+    "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
     "https://huggingface.co/blog/Dharma-AI/gpu-management",
-    "https://www.theverge.com/tech/973943/google-earth-ai-image-generation-deepfake-tool"
+    "Flint: A Visualization Language for the AI Era",
+    "Apple Will 'Watch Everything Burn' When AI Bubble Bursts",
+    "Predictive Speculative KV Replication for Bursty LLM Inference",
+    "AI companies destroy rare and non recoverable physical books",
+    "Everyone is building LLM routers, we deprecated ours"
   ],
-  "last_updated": "2026-08-01T09:04:53.509576"
+  "last_updated": "2026-08-01T09:08:54.222772"
 }
