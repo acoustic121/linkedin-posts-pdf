@@ -4,54 +4,54 @@
 
 ---
 
-Ever typed the same 5 Linux commands every single morning before starting work?
+Every developer has typed `docker run` and wondered what's actually happening inside the computer...
 (with real examples you can use right now)
 
-1. Variables
- -> What: A box where you can store text or numbers to use later in your script.
- -> Command/Tool: MY_NAME="Aman"
- Use Case: When you need to save a server IP address so you don't have to type it ten times.
+1. Images (The Recipe)
+ -> What: A read-only blueprint that contains your app code, libraries, and tools.
+ -> Command/Tool: docker pull python:3.9
+ Use Case: When your coworker says "just run my app," this is the exact package they are handing you.
 
-2. Echo
- -> What: A simple way to print messages to your screen so you know what your script is doing.
- -> Command/Tool: echo "Starting backup..."
- Use Case: When your script takes a minute to run and you want to see a friendly progress message.
+2. Containers (The Kitchen)
+ -> What: A running, living instance of your image that executes your application in isolation.
+ -> Command/Tool: docker run -d -p 8080:80 python:3.9
+ Use Case: When your boss asks you to test a new app without messing up your computer's main settings.
 
-3. If-Else Statements
- -> What: Making decisions in your code based on whether something is true or false.
- -> Command/Tool: if [ -d "logs" ]; then echo "Found"; fi
- Use Case: When your script needs to check if a folder exists before trying to save files inside it.
+3. Dockerfile (The Recipe Book)
+ -> What: A simple text file with step-by-step instructions to build your custom image.
+ -> Command/Tool: docker build -t my-app .
+ Use Case: When you need to turn your local python script into a shareable package for the whole team.
 
-4. For Loops
- -> What: Telling your computer to repeat the same task over a list of items automatically.
- -> Command/Tool: for server in web1 web2; do ping -c 1 $server; done
- Use Case: When your boss asks you to check if all 50 company servers are online right now.
+4. Volumes (The Fridge)
+ -> What: A way to save data outside the container so it doesn't disappear when the app stops.
+ -> Command/Tool: docker run -v /my/data:/app/data my-app
+ Use Case: When the app crashes at 3am and you need to make sure your database files aren't deleted.
 
-5. Comments
- -> What: Leaving notes in your code with a hashtag so you remember what it does next month.
- -> Command/Tool: # This line deletes old temp files
- Use Case: When you write a script today and look at it again six months later with zero memory.
+5. Ports (The Serving Window)
+ -> What: A bridge connecting your computer's network to the isolated container network.
+ -> Command/Tool: docker port <container-id>
+ Use Case: When you open localhost:8080 in your browser to actually see your running website.
 
-6. Exit Status
- -> What: A secret number your computer gives back to tell you if your command worked or failed.
- -> Command/Tool: echo $?
- Use Case: When you want to stop your script immediately if a file download fails halfway through.
+6. Docker Hub (The Grocery Store)
+ -> What: A massive public library where people share pre-made container images.
+ -> Command/Tool: docker search nginx
+ Use Case: When you need a ready-to-use database or web server instantly without installing it manually.
 
 The best way to learn? Open a terminal and try these yourself.
 
 My advice:
- -> Start small by turning a two-step manual task into a single script.
- -> Always double-check your file paths before running a delete command.
+ -> Start by running simple official images like Nginx or Alpine Linux.
+ -> Don't try to write complex multi-container setups on day one.
 
 - - - 
 
 Found this helpful? Follow me (Aman Raj Singh) for daily Cloud & DevOps tips
 
-#CloudDevOps #DevOps #BashScripting #Beginners #CloudNative
+#CloudDevOps #DevOps #Docker #Beginners #CloudNative
 
 Download the full PDF cheatsheet:
-https://github.com/acoustic121/linkedin-auto-poster/raw/main/posts/2026-08-01/morning/post.pdf
+https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-08-01/morning/how-docker-containers-work-explained-simply-cheatsheet.pdf
 
 ---
 
-*PDF: [post.pdf](post.pdf)*
+*PDF: [how-docker-containers-work-explained-simply-cheatsheet.pdf](how-docker-containers-work-explained-simply-cheatsheet.pdf)*
