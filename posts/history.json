@@ -16,7 +16,9 @@
     "How to Read Linux Logs and Debug Issues",
     "What is IAM? Cloud Permissions Made Simple",
     "How to Set Up Your First GitHub Actions Pipeline",
-    "kubectl Commands Every Kubernetes Beginner Needs"
+    "kubectl Commands Every Kubernetes Beginner Needs",
+    "HTTP vs HTTPS: Why SSL Certificates Matter",
+    "Terraform vs Ansible: When to Use Which Tool"
   ],
-  "last_updated": "2026-08-13T04:24:13.520513"
+  "last_updated": "2026-08-14T04:21:51.287315"
 }
