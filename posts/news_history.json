@@ -227,7 +227,17 @@
     "Slack is launching collaborative vibe-coding channels",
     "Google Gemini is getting a dedicated student hub",
     "OpenAI hit the brakes. Now what?",
-    "Meta AI is getting a Mac app"
+    "Meta AI is getting a Mac app",
+    "Running a 284B Parameter LLM on 3.2GB RAM with Pure C",
+    "https://dev.to/ronak_parmar_033c50d168b5/i-ran-a-284b-parameter-llm-from-32gb-of-ram-in-plain-c-cbp",
+    "Liquid AI Releases LFM2.5-DSpark Models for 3.2x Faster Inference",
+    "https://www.marktechpost.com/2026/08/20/liquid-ai-releases-lfm2-5-dspark-draft-models-that-deliver-up-to-3-18x-faster-decoding/",
+    "EU Rules AI-Generated Content Cannot Be Copyrighted",
+    "https://mathstodon.xyz/@maxpool/117128107757895678",
+    "AI companies destroy physical books \u2013 let's scan rare books before it's too late",
+    "Copyright does not protect AI-generated content in EU",
+    "Show HN: Huzzah \u2013 a novel approach to coding with AI",
+    "Vomit: Clean up Claude 5's token output with a separate LLM"
   ],
-  "last_updated": "2026-08-20T14:07:09.429744"
+  "last_updated": "2026-08-21T14:07:47.407922"
 }
