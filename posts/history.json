@@ -24,7 +24,8 @@
     "Git Branching Strategy: What to Use at Work",
     "Linux File Permissions Explained (chmod, chown)",
     "EC2 vs Lambda: When to Use Which on AWS",
-    "Jenkins vs GitHub Actions: Which Should You Use?"
+    "Jenkins vs GitHub Actions: Which Should You Use?",
+    "What Happens When a Kubernetes Pod Crashes?"
   ],
-  "last_updated": "2026-08-20T03:14:32.048706"
+  "last_updated": "2026-08-21T03:26:34.937247"
 }
