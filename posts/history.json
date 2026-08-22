@@ -25,7 +25,10 @@
     "Linux File Permissions Explained (chmod, chown)",
     "EC2 vs Lambda: When to Use Which on AWS",
     "Jenkins vs GitHub Actions: Which Should You Use?",
-    "What Happens When a Kubernetes Pod Crashes?"
+    "What Happens When a Kubernetes Pod Crashes?",
+    "What is a VPC? Cloud Networking Basics Explained",
+    "How to Structure a Terraform Project for Teams",
+    "What is Grafana? Dashboards That Save You at 3 AM"
   ],
-  "last_updated": "2026-08-21T03:26:34.937247"
+  "last_updated": "2026-08-22T03:13:55.695242"
 }
