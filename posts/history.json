@@ -35,7 +35,9 @@
     "Bash Scripting: Automate Repetitive Tasks",
     "What is a Load Balancer and Why Do You Need One?",
     "Environment Variables & Secrets: Manage Config Safely",
-    "Kubernetes vs Docker Compose: What's the Difference?"
+    "Kubernetes vs Docker Compose: What's the Difference?",
+    "API Gateway vs Load Balancer: What's the Difference?",
+    "Terraform State: What It Is and Why It Matters"
   ],
-  "last_updated": "2026-08-27T12:55:17.270433"
+  "last_updated": "2026-08-28T14:26:59.485800"
 }
