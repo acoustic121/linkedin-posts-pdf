@@ -37,7 +37,9 @@
     "Environment Variables & Secrets: Manage Config Safely",
     "Kubernetes vs Docker Compose: What's the Difference?",
     "API Gateway vs Load Balancer: What's the Difference?",
-    "Terraform State: What It Is and Why It Matters"
+    "Terraform State: What It Is and Why It Matters",
+    "How to Set Up Alerts Before Your Boss Finds the Bug",
+    "Top 10 Linux Commands You'll Use Every Day at Work"
   ],
-  "last_updated": "2026-08-28T14:26:59.485800"
+  "last_updated": "2026-08-29T09:12:57.804603"
 }
