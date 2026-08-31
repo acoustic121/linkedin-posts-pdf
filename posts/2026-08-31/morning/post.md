@@ -4,54 +4,52 @@
 
 ---
 
-Every developer has sent a Pull Request that took 3 days to review...
+Most beginners think cloud storage is just one giant, expensive hard drive in the sky...
 (with real examples you can use right now)
 
-1. Keep PRs Small
- ↳ What: Break your work into tiny, bite-sized code changes instead of one huge update.
- ↳ Command/Tool: git diff --stat main..feature-branch
- Use Case: When you want your teammate to review your code in 5 minutes instead of 3 days.
+1. Hot Storage (Standard)
+ ↳ What: The default, fast storage for files you need to access instantly every single day.
+ ↳ Command/Tool: aws s3 cp photo.jpg s3://my-bucket/ --storage-class STANDARD
+ Use Case: When your app needs to load user profile pictures instantly on login.
 
-2. Write Descriptive Titles
- ↳ What: Start your PR title with clear prefixes like feat, fix, or docs so everyone knows what changed.
- ↳ Command/Tool: gh pr create --title "fix: resolve login button timeout"
- Use Case: When your senior engineer opens GitHub and needs to know instantly what you fixed.
+2. Cool Storage (Infrequent Access)
+ ↳ What: A much cheaper storage tier for files you only look at once or twice a month.
+ ↳ Command/Tool: aws s3 cp report.pdf s3://my-bucket/ --storage-class STANDARD_IA
+ Use Case: When your boss asks you to keep last month's PDF invoices available just in case.
 
-3. Clean Up Your Commit History
- ↳ What: Combine multiple messy "fixed typo" commits into one neat commit before requesting a review.
- ↳ Command/Tool: git rebase -i HEAD~3
- Use Case: When you made 10 tiny commits while testing and want to hide the messy trial-and-error.
+3. Cold Storage (Glacier Archive)
+ ↳ What: Super cheap storage for files you almost never need, taking minutes to hours to retrieve.
+ ↳ Command/Tool: aws s3 cp backup.zip s3://my-bucket/ --storage-class GLACIER
+ Use Case: When you need to store raw database backups from 3 years ago for tax compliance.
 
-4. Add a PR Template
- ↳ What: Use a standard checklist in your repository so you never forget to add context or test steps.
- ↳ Command/Tool: .github/PULL_REQUEST_TEMPLATE.md
- Use Case: When your manager asks "Did you test this on staging?" and you want to prove you did.
+4. Deep Archive (The Digital Attic)
+ ↳ What: The absolute cheapest tier for files you might never look at again but cannot delete.
+ ↳ Command/Tool: aws s3 cp raw-logs.tar s3://my-bucket/ --storage-class DEEP_ARCHIVE
+ Use Case: When your legal team says you must keep 7 years of raw server logs.
 
-5. Sync Main Before Opening PR
- ↳ What: Bring the latest changes from the main branch into your branch to avoid merge conflicts early.
- ↳ Command/Tool: git fetch origin && git rebase origin/main
- Use Case: When three other teammates merged their code while you were working on your feature.
+5. Lifecycle Rules (Auto-Pilot)
+ ↳ What: Automated rules that slide your files to cheaper tiers as they get older.
+ ↳ Command/Tool: aws s3api put-bucket-lifecycle-configuration --bucket my-bucket --lifecycle-configuration file://policy.json
+ Use Case: When you want files older than 30 days to automatically move to Cool storage without manual work.
 
-6. Self-Review Before Requesting Review
- ↳ What: Check your own diff on GitHub before tagging teammates to catch accidental debug prints.
- ↳ Command/Tool: git diff HEAD~1
- Use Case: When you want to catch leftover console logs before your reviewer sees them.
+6. Object Expiration (Auto-Delete)
+ ↳ What: A rule that automatically deletes old, useless files so you stop paying for them.
+ ↳ Command/Tool: aws s3api put-bucket-lifecycle-configuration
+ Use Case: When your app generates temporary log files that are completely useless after 7 days.
 
 The best way to learn? Open a terminal and try these yourself.
 
 My advice:
- ↳ Keep PRs under 200 lines of code so reviewers can give fast, thoughtful feedback.
- ↳ Avoid submitting 2,000-line monster PRs right before Friday deployment.
-
-- - -
+ ↳ Start with Standard_IA (Infrequent Access) before jumping straight to Glacier archives.
+ ↳ Don't put tiny files (under 128KB) in Infrequent Access; cloud providers still charge you for minimum sizes!
 
 Found this helpful? Follow me (Aman Raj Singh) for daily Cloud & DevOps tips
 
-#CloudDevOps #DevOps #Git #Beginners #CloudNative
+#CloudDevOps #DevOps #AWS #Beginners #CloudNative
 
 Download the full PDF cheatsheet:
-https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-08-31/morning/pull-request-best-practices-every-team-should-follow-cheatsheet.pdf
+https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-08-31/morning/cloud-storage-tiers-save-70-on-awsgcpazure-costs-cheatsheet.pdf
 
 ---
 
-*PDF: [pull-request-best-practices-every-team-should-follow-cheatsheet.pdf](pull-request-best-practices-every-team-should-follow-cheatsheet.pdf)*
+*PDF: [cloud-storage-tiers-save-70-on-awsgcpazure-costs-cheatsheet.pdf](cloud-storage-tiers-save-70-on-awsgcpazure-costs-cheatsheet.pdf)*
