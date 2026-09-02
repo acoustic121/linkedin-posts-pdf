@@ -44,7 +44,8 @@
     "Pull Request Best Practices Every Team Should Follow",
     "SSH: Connect to Any Server Like a Pro",
     "Cloud Storage Tiers: Save 70% on AWS/GCP/Azure Costs",
-    "How to Deploy Code Without Downtime (Zero-Downtime Deploys)"
+    "How to Deploy Code Without Downtime (Zero-Downtime Deploys)",
+    "How Kubernetes Scales Your App Automatically (HPA)"
   ],
-  "last_updated": "2026-09-01T07:53:42.097925"
+  "last_updated": "2026-09-02T07:10:50.478488"
 }
