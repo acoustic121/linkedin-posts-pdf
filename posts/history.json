@@ -46,7 +46,8 @@
     "Cloud Storage Tiers: Save 70% on AWS/GCP/Azure Costs",
     "How to Deploy Code Without Downtime (Zero-Downtime Deploys)",
     "How Kubernetes Scales Your App Automatically (HPA)",
-    "Ports & Protocols: What Every Developer Should Know"
+    "Ports & Protocols: What Every Developer Should Know",
+    "Automate Cloud Infrastructure With 10 Terraform Commands"
   ],
-  "last_updated": "2026-09-03T07:15:37.494649"
+  "last_updated": "2026-09-04T07:18:22.257712"
 }
