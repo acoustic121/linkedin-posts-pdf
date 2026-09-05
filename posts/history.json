@@ -47,7 +47,8 @@
     "How to Deploy Code Without Downtime (Zero-Downtime Deploys)",
     "How Kubernetes Scales Your App Automatically (HPA)",
     "Ports & Protocols: What Every Developer Should Know",
-    "Automate Cloud Infrastructure With 10 Terraform Commands"
+    "Automate Cloud Infrastructure With 10 Terraform Commands",
+    "CPU vs Memory: Understanding Cloud Resource Usage"
   ],
-  "last_updated": "2026-09-04T07:18:22.257712"
+  "last_updated": "2026-09-05T06:59:19.835579"
 }
