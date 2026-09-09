@@ -4,54 +4,59 @@
 
 ---
 
-Every junior engineer panics the first time they make a mistake in Git...
+Writing the same 50 lines of Terraform for every new AWS environment gets old fast.
 (with real examples you can use right now)
 
-1. Git Init
- ↳ What: Tells Git to start tracking changes in your current folder.
- ↳ Command/Tool: git init
- Use Case: When you start a brand new project on your laptop and want to track your progress.
+1. Calling a Local Module
+ ↳ What: A way to package your Terraform files in a folder and run them like a single reusable function.
+ ↳ Command/Tool: module "web_server" { source = "./modules/ec2" }
+ Use Case: When you need the exact same EC2 setup for Dev, Staging, and Prod without duplicating code.
 
-2. Git Status
- ↳ What: Shows you exactly which files have been changed, added, or deleted.
- ↳ Command/Tool: git status
- Use Case: When you return to your computer after lunch and forget what files you were editing.
+2. Defining Module Input Variables
+ ↳ What: Parameter inputs that let you customize each module call (like setting server size or environment tag).
+ ↳ Command/Tool: variable "instance_type" { default = "t3.micro" }
+ Use Case: When your manager asks for a t3.micro in Dev but a c5.xlarge in Production.
 
-3. Git Add & Commit
- ↳ What: Takes a snapshot of your changes and saves them with a descriptive note.
- ↳ Command/Tool: git add . && git commit -m "feat: added login button"
- Use Case: When you finally get that tricky feature working and want to lock in your progress before you break it.
+3. Returning Module Outputs
+ ↳ What: Values exported by a module so other parts of your infrastructure can read and use them.
+ ↳ Command/Tool: output "vpc_id" { value = aws_vpc.main.id }
+ Use Case: When your EC2 module needs the ID of the VPC created by your network module.
 
-4. Git Log
- ↳ What: Shows you a chronological history of all the commits made in the project.
- ↳ Command/Tool: git log --oneline
- Use Case: When you need to find the exact moment a bug was introduced into the code last Tuesday.
+4. Using the Public Terraform Registry
+ ↳ What: Pre-built, tested modules created by AWS, Azure, and the community that you can use instantly.
+ ↳ Command/Tool: source = "terraform-aws-modules/vpc/aws"
+ Use Case: When you need a production-ready AWS VPC with subnets and NAT gateways in 10 lines of code.
 
-5. Git Branch
- ↳ What: Creates an isolated copy of the code where you can experiment without breaking the main app.
- ↳ Command/Tool: git checkout -b feature/new-dashboard
- Use Case: When your boss asks you to build an experimental feature but warns you not to break the production site.
+5. Initializing Module Dependencies
+ ↳ What: The command that downloads and prepares all external and local modules before running plans.
+ ↳ Command/Tool: terraform init
+ Use Case: When you add a new module to your code and Terraform says it cannot find the source.
 
-6. Git Restore
- ↳ What: Discards local changes in a file and reverts it back to the last saved state.
- ↳ Command/Tool: git restore app.py
- Use Case: When you accidentally delete half of your main file and want to instantly undo your mistakes.
+6. Pinning Module Versions
+ ↳ What: Locking a remote module to a specific release so sudden upstream updates never break your infra.
+ ↳ Command/Tool: version = "~> 5.0"
+ Use Case: When an open-source module releases a breaking change while you are deploying on a Friday afternoon.
+
+7. Multi-Instance Deployments with for_each
+ ↳ What: Creating multiple identical module stacks across different regions or environments in one block.
+ ↳ Command/Tool: for_each = toset(["us-east-1", "eu-west-1"])
+ Use Case: When the business expands into Europe and wants an exact clone of your US app cluster.
 
 The best way to learn? Open a terminal and try these yourself.
 
 My advice:
- ↳ Commit early and commit often with clear, short messages so you can easily revert if things break.
- ↳ Never commit secrets, passwords, or API keys to GitHub—always use a .gitignore file.
+ ↳ Start small: turn one simple S3 bucket with tagging into a reusable local folder module first.
+ ↳ Never hardcode values like VPC IDs or region names inside a module—always pass them as variables.
 
-- - -
+- - - 
 
 Found this helpful? Follow me (Aman Raj Singh) for daily Cloud & DevOps tips
 
-#CloudDevOps #DevOps #Git #Beginners #CloudNative
+#CloudDevOps #DevOps #Terraform #Beginners #CloudNative
 
 Download the full PDF cheatsheet:
-https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-09-09/morning/git-github-version-control-basics-practical-tips-cheatsheet.pdf
+https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-09-09/morning/terraform-modules-reuse-infrastructure-code-like-a-pro-cheatsheet.pdf
 
 ---
 
-*PDF: [git-github-version-control-basics-practical-tips-cheatsheet.pdf](git-github-version-control-basics-practical-tips-cheatsheet.pdf)*
+*PDF: [terraform-modules-reuse-infrastructure-code-like-a-pro-cheatsheet.pdf](terraform-modules-reuse-infrastructure-code-like-a-pro-cheatsheet.pdf)*
