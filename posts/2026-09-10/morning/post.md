@@ -4,59 +4,54 @@
 
 ---
 
-Managing 100 servers manually feels like trying to cook dinner for 100 people with 1 microwave.
+Every junior engineer has panicked when their local terraform state file disappeared.
 (with real examples you can use right now)
 
-1. Salt Ping
- ↳ What: Checks if your central controller (Master) can talk to all servers (Minions).
- ↳ Command/Tool: salt '*' test.ping
- Use Case: When your lead asks if all server agents are online after a network maintenance window.
+1. What is Terraform State
+ ↳ What: A JSON file that remembers what cloud infrastructure you built.
+ ↳ Command/Tool: terraform.tfstate
+ Use Case: When your laptop crashes and you lose this file, Terraform forgets all your servers exist.
 
-2. Remote Execution
- ↳ What: Runs a shell command on multiple servers at the exact same time.
- ↳ Command/Tool: salt '*' cmd.run 'uptime'
- Use Case: When your app slows down at 3am and you need to check server load instantly.
+2. The Danger of Local Storage
+ ↳ What: Keeping this file only on your personal computer.
+ ↳ Command/Tool: pwd
+ Use Case: When your teammate runs the same script and creates duplicate servers because their laptop doesn't know what you built.
 
-3. Salt States
- ↳ What: Defines what software should be installed and running automatically on your machines.
- ↳ Command/Tool: salt '*' state.apply nginx
- Use Case: When you need to install and configure Nginx across 10 web servers with one click.
+3. Remote State Storage
+ ↳ What: Saving your state file safely in the cloud where everyone can see it.
+ ↳ Command/Tool: AWS S3 Bucket
+ Use Case: When your boss asks you to let the team update the infrastructure safely together.
 
-4. Salt Grains
- ↳ What: Collects static system information like OS version, CPU, and memory specs.
- ↳ Command/Tool: salt '*' grains.item osfullname
- Use Case: When security asks you to list every server currently running an old Ubuntu version.
+4. State Locking
+ ↳ What: A traffic light system that stops two people from editing the cloud at the same exact time.
+ ↳ Command/Tool: AWS DynamoDB
+ Use Case: When you and a coworker click apply at 3 AM and accidentally break the production database.
 
-5. Salt Pillar
- ↳ What: Safely stores sensitive variables like passwords and API keys to send to specific servers.
- ↳ Command/Tool: salt 'db-prod*' pillar.items
- Use Case: When you need to pass database credentials safely without putting them in code files.
+5. Configuring Backend in Code
+ ↳ What: Telling Terraform where to safely store your shared state file.
+ ↳ Command/Tool: backend "s3" { }
+ Use Case: When you want your project to automatically save state to the cloud on every run.
 
-6. Target Filtering
- ↳ What: Directs commands to specific servers based on names or system properties.
- ↳ Command/Tool: salt -G 'os:Ubuntu' test.ping
- Use Case: When you want to push an update only to Ubuntu servers without touching CentOS machines.
-
-7. Highstate Enforcement
- ↳ What: Syncs all your configuration rules at once to keep servers in their desired state.
- ↳ Command/Tool: salt '*' state.highstate
- Use Case: When someone manually changes a server config by mistake and you need to fix it fast.
+6. Migrating Existing State
+ ↳ What: Safely moving your local state file up into the cloud storage.
+ ↳ Command/Tool: terraform init
+ Use Case: When you finally decide to stop risking local files and move everything to S3.
 
 The best way to learn? Open a terminal and try these yourself.
 
 My advice:
- ↳ Start by running safe read-only commands like test.ping on local virtual machines first.
- ↳ Avoid hardcoding passwords inside State YAML files; always use Pillars for secret data.
+ ↳ Always set up remote state before writing your second resource.
+ ↳ Never commit your local state file to GitHub.
 
-- - -
+- - - 
 
 Found this helpful? Follow me (Aman Raj Singh) for daily Cloud & DevOps tips
 
-#CloudDevOps #DevOps #SaltStack #Beginners #CloudNative
+#CloudDevOps #DevOps #Terraform #Beginners #CloudNative
 
 Download the full PDF cheatsheet:
-https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-09-10/morning/saltstack-in-plain-english-configuration-management-made-easy-cheatsheet.pdf
+https://github.com/acoustic121/linkedin-posts-pdf/raw/main/posts/2026-09-10/morning/terraform-remote-state-why-you-should-never-store-it-locally-cheatsheet.pdf
 
 ---
 
-*PDF: [saltstack-in-plain-english-configuration-management-made-easy-cheatsheet.pdf](saltstack-in-plain-english-configuration-management-made-easy-cheatsheet.pdf)*
+*PDF: [terraform-remote-state-why-you-should-never-store-it-locally-cheatsheet.pdf](terraform-remote-state-why-you-should-never-store-it-locally-cheatsheet.pdf)*

@@ -53,7 +53,8 @@
     "Docker Networks Explained",
     "Git, GitHub & Version Control Basics & Practical Tips",
     "Terraform Modules: Reuse Infrastructure Code Like a Pro",
-    "SaltStack in Plain English: Configuration Management Made Easy"
+    "SaltStack in Plain English: Configuration Management Made Easy",
+    "Terraform Remote State: Why You Should Never Store It Locally"
   ],
-  "last_updated": "2026-09-10T07:23:19.322072"
+  "last_updated": "2026-09-10T07:25:29.064106"
 }
