@@ -52,7 +52,8 @@
     "What Does a Cloud Operations Engineer Actually Do?",
     "Docker Networks Explained",
     "Git, GitHub & Version Control Basics & Practical Tips",
-    "Terraform Modules: Reuse Infrastructure Code Like a Pro"
+    "Terraform Modules: Reuse Infrastructure Code Like a Pro",
+    "SaltStack in Plain English: Configuration Management Made Easy"
   ],
-  "last_updated": "2026-09-09T08:32:03.707177"
+  "last_updated": "2026-09-10T07:23:19.322072"
 }
