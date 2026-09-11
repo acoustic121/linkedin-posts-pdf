@@ -54,7 +54,8 @@
     "Git, GitHub & Version Control Basics & Practical Tips",
     "Terraform Modules: Reuse Infrastructure Code Like a Pro",
     "SaltStack in Plain English: Configuration Management Made Easy",
-    "Terraform Remote State: Why You Should Never Store It Locally"
+    "Terraform Remote State: Why You Should Never Store It Locally",
+    "SaltStack Pillars & Grains: Manage Server Config at Scale"
   ],
-  "last_updated": "2026-09-10T07:25:29.064106"
+  "last_updated": "2026-09-11T07:21:36.196142"
 }
