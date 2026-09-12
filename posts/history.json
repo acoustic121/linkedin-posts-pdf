@@ -55,7 +55,8 @@
     "Terraform Modules: Reuse Infrastructure Code Like a Pro",
     "SaltStack in Plain English: Configuration Management Made Easy",
     "Terraform Remote State: Why You Should Never Store It Locally",
-    "SaltStack Pillars & Grains: Manage Server Config at Scale"
+    "SaltStack Pillars & Grains: Manage Server Config at Scale",
+    "Terraform Plan vs Apply: What Actually Happens Under the Hood"
   ],
-  "last_updated": "2026-09-11T07:21:36.196142"
+  "last_updated": "2026-09-12T07:14:08.894187"
 }
