@@ -56,7 +56,8 @@
     "SaltStack in Plain English: Configuration Management Made Easy",
     "Terraform Remote State: Why You Should Never Store It Locally",
     "SaltStack Pillars & Grains: Manage Server Config at Scale",
-    "Terraform Plan vs Apply: What Actually Happens Under the Hood"
+    "Terraform Plan vs Apply: What Actually Happens Under the Hood",
+    "How SaltStack Runs Commands Across 100 Servers at Once"
   ],
-  "last_updated": "2026-09-12T07:14:08.894187"
+  "last_updated": "2026-09-13T07:32:00.976819"
 }
