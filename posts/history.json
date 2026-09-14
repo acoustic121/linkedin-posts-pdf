@@ -57,7 +57,8 @@
     "Terraform Remote State: Why You Should Never Store It Locally",
     "SaltStack Pillars & Grains: Manage Server Config at Scale",
     "Terraform Plan vs Apply: What Actually Happens Under the Hood",
-    "How SaltStack Runs Commands Across 100 Servers at Once"
+    "How SaltStack Runs Commands Across 100 Servers at Once",
+    "Terraform Workspaces: Manage Dev, Staging & Prod Easily"
   ],
-  "last_updated": "2026-09-13T07:32:00.976819"
+  "last_updated": "2026-09-14T07:58:45.954591"
 }
