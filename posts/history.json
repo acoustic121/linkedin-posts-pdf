@@ -59,7 +59,8 @@
     "Terraform Plan vs Apply: What Actually Happens Under the Hood",
     "How SaltStack Runs Commands Across 100 Servers at Once",
     "Terraform Workspaces: Manage Dev, Staging & Prod Easily",
-    "SaltStack States: Automate Server Setup Step by Step"
+    "SaltStack States: Automate Server Setup Step by Step",
+    "Terraform Drift Detection: Catch Changes Before They Break Prod"
   ],
-  "last_updated": "2026-09-15T07:53:45.461541"
+  "last_updated": "2026-09-16T07:46:45.709990"
 }
