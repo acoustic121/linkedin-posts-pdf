@@ -60,7 +60,8 @@
     "How SaltStack Runs Commands Across 100 Servers at Once",
     "Terraform Workspaces: Manage Dev, Staging & Prod Easily",
     "SaltStack States: Automate Server Setup Step by Step",
-    "Terraform Drift Detection: Catch Changes Before They Break Prod"
+    "Terraform Drift Detection: Catch Changes Before They Break Prod",
+    "SaltStack vs Ansible: Which Config Tool Should You Learn First?"
   ],
-  "last_updated": "2026-09-16T07:46:45.709990"
+  "last_updated": "2026-09-17T07:49:48.732338"
 }
