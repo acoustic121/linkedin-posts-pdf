@@ -61,7 +61,8 @@
     "Terraform Workspaces: Manage Dev, Staging & Prod Easily",
     "SaltStack States: Automate Server Setup Step by Step",
     "Terraform Drift Detection: Catch Changes Before They Break Prod",
-    "SaltStack vs Ansible: Which Config Tool Should You Learn First?"
+    "SaltStack vs Ansible: Which Config Tool Should You Learn First?",
+    "Docker Multi-Stage Builds: Shrink Your Image Size by 90%"
   ],
-  "last_updated": "2026-09-17T07:49:48.732338"
+  "last_updated": "2026-09-18T07:29:09.382110"
 }
