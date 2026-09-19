@@ -62,7 +62,8 @@
     "SaltStack States: Automate Server Setup Step by Step",
     "Terraform Drift Detection: Catch Changes Before They Break Prod",
     "SaltStack vs Ansible: Which Config Tool Should You Learn First?",
-    "Docker Multi-Stage Builds: Shrink Your Image Size by 90%"
+    "Docker Multi-Stage Builds: Shrink Your Image Size by 90%",
+    "Kubernetes ConfigMaps & Secrets: Manage App Config Safely"
   ],
-  "last_updated": "2026-09-18T07:29:09.382110"
+  "last_updated": "2026-09-19T07:25:11.715297"
 }
