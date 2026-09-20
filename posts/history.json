@@ -63,7 +63,8 @@
     "Terraform Drift Detection: Catch Changes Before They Break Prod",
     "SaltStack vs Ansible: Which Config Tool Should You Learn First?",
     "Docker Multi-Stage Builds: Shrink Your Image Size by 90%",
-    "Kubernetes ConfigMaps & Secrets: Manage App Config Safely"
+    "Kubernetes ConfigMaps & Secrets: Manage App Config Safely",
+    "Docker Networking Explained: Bridge, Host & Overlay Modes"
   ],
-  "last_updated": "2026-09-19T07:25:11.715297"
+  "last_updated": "2026-09-20T07:48:26.964929"
 }
