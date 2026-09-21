@@ -64,7 +64,8 @@
     "SaltStack vs Ansible: Which Config Tool Should You Learn First?",
     "Docker Multi-Stage Builds: Shrink Your Image Size by 90%",
     "Kubernetes ConfigMaps & Secrets: Manage App Config Safely",
-    "Docker Networking Explained: Bridge, Host & Overlay Modes"
+    "Docker Networking Explained: Bridge, Host & Overlay Modes",
+    "Kubernetes Ingress: Route Traffic to the Right Service"
   ],
-  "last_updated": "2026-09-20T07:48:26.964929"
+  "last_updated": "2026-09-21T08:02:48.536992"
 }
