@@ -575,7 +575,17 @@
     "macOS 27: Workaround to avoid downloading AI models and save storage",
     "Show HN: Lossless-memory \u2013 a personal AI memory that never summarizes",
     "Don't Use AI to Write",
-    "In September, AI generated code has made up 17.25% of all Linux Kernel patches"
+    "In September, AI generated code has made up 17.25% of all Linux Kernel patches",
+    "NVIDIA Introduces SoL-Pi: Auto-Research Loops That Cut Coding Agent Token Traffic by Up to 49%",
+    "https://www.marktechpost.com/2026/09/21/nvidia-researchers-have-released-sol-pi/",
+    "Meta patches Muse exploit that let attackers control the AI agent",
+    "https://www.theverge.com/tech/998679/meta-muse-patch-zero-day-exploit-ai-agent",
+    "Transformers now runs llama.cpp quants",
+    "https://huggingface.co/blog/transformers-llama-cpp-quants",
+    "Andreessen Horowitz is launching an \u2018academy\u2019 with no homework and partnerships with Palantir, Google, and Meta",
+    "Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity",
+    "Trump says the US is officially renaming AI to \u2018super intelligence\u2019",
+    "California tightens rules on AI data center energy and water use"
   ],
-  "last_updated": "2026-09-21T18:52:00.299552"
+  "last_updated": "2026-09-22T17:42:32.820426"
 }
