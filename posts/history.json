@@ -65,7 +65,8 @@
     "Docker Multi-Stage Builds: Shrink Your Image Size by 90%",
     "Kubernetes ConfigMaps & Secrets: Manage App Config Safely",
     "Docker Networking Explained: Bridge, Host & Overlay Modes",
-    "Kubernetes Ingress: Route Traffic to the Right Service"
+    "Kubernetes Ingress: Route Traffic to the Right Service",
+    "Docker Image Layers: Why Your Builds Are Slow (and How to Fix)"
   ],
-  "last_updated": "2026-09-21T08:02:48.536992"
+  "last_updated": "2026-09-22T07:48:14.686347"
 }
