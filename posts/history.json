@@ -68,7 +68,8 @@
     "Kubernetes Ingress: Route Traffic to the Right Service",
     "Docker Image Layers: Why Your Builds Are Slow (and How to Fix)",
     "Kubernetes Resource Requests & Limits: Stop Getting OOMKilled",
-    "How to Debug a Docker Container That Won't Start"
+    "How to Debug a Docker Container That Won't Start",
+    "Kubernetes RBAC: Who Can Do What in Your Cluster"
   ],
-  "last_updated": "2026-09-24T07:41:06.282147"
+  "last_updated": "2026-09-25T07:59:12.614128"
 }
