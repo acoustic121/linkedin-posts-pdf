@@ -69,7 +69,8 @@
     "Docker Image Layers: Why Your Builds Are Slow (and How to Fix)",
     "Kubernetes Resource Requests & Limits: Stop Getting OOMKilled",
     "How to Debug a Docker Container That Won't Start",
-    "Kubernetes RBAC: Who Can Do What in Your Cluster"
+    "Kubernetes RBAC: Who Can Do What in Your Cluster",
+    "Docker Registry Explained: Push & Pull Images Like a Pro"
   ],
-  "last_updated": "2026-09-25T07:59:12.614128"
+  "last_updated": "2026-09-26T07:52:07.971899"
 }
