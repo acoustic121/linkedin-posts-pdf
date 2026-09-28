@@ -71,7 +71,8 @@
     "How to Debug a Docker Container That Won't Start",
     "Kubernetes RBAC: Who Can Do What in Your Cluster",
     "Docker Registry Explained: Push & Pull Images Like a Pro",
-    "Kubernetes StatefulSets: When Deployments Aren't Enough"
+    "Kubernetes StatefulSets: When Deployments Aren't Enough",
+    "Helm Charts Explained: Package Kubernetes Apps the Right Way"
   ],
-  "last_updated": "2026-09-27T08:22:26.574152"
+  "last_updated": "2026-09-28T08:48:19.336621"
 }
