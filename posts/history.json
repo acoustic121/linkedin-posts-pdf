@@ -72,7 +72,8 @@
     "Kubernetes RBAC: Who Can Do What in Your Cluster",
     "Docker Registry Explained: Push & Pull Images Like a Pro",
     "Kubernetes StatefulSets: When Deployments Aren't Enough",
-    "Helm Charts Explained: Package Kubernetes Apps the Right Way"
+    "Helm Charts Explained: Package Kubernetes Apps the Right Way",
+    "Jenkins Pipelines: Automate Your Builds From Scratch"
   ],
-  "last_updated": "2026-09-28T08:48:19.336621"
+  "last_updated": "2026-09-29T08:44:25.472426"
 }
