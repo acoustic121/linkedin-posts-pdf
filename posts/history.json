@@ -73,7 +73,8 @@
     "Docker Registry Explained: Push & Pull Images Like a Pro",
     "Kubernetes StatefulSets: When Deployments Aren't Enough",
     "Helm Charts Explained: Package Kubernetes Apps the Right Way",
-    "Jenkins Pipelines: Automate Your Builds From Scratch"
+    "Jenkins Pipelines: Automate Your Builds From Scratch",
+    "Helm Values & Overrides: Deploy the Same Chart Everywhere"
   ],
-  "last_updated": "2026-09-29T08:44:25.472426"
+  "last_updated": "2026-10-01T09:56:08.358984"
 }
