@@ -76,7 +76,8 @@
     "Jenkins Pipelines: Automate Your Builds From Scratch",
     "Helm Values & Overrides: Deploy the Same Chart Everywhere",
     "Azure DevOps Pipelines: Ship Code to Azure in Minutes",
-    "Helm Hooks: Run Jobs Before and After a Kubernetes Deploy"
+    "Helm Hooks: Run Jobs Before and After a Kubernetes Deploy",
+    "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml"
   ],
-  "last_updated": "2026-10-03T08:20:12.340621"
+  "last_updated": "2026-10-04T08:35:11.679725"
 }
