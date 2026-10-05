@@ -77,7 +77,8 @@
     "Helm Values & Overrides: Deploy the Same Chart Everywhere",
     "Azure DevOps Pipelines: Ship Code to Azure in Minutes",
     "Helm Hooks: Run Jobs Before and After a Kubernetes Deploy",
-    "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml"
+    "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml",
+    "Helm Rollback: Undo a Bad Release in Under 30 Seconds"
   ],
-  "last_updated": "2026-10-04T08:35:11.679725"
+  "last_updated": "2026-10-05T09:15:40.228268"
 }
