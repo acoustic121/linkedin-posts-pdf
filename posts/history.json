@@ -78,7 +78,8 @@
     "Azure DevOps Pipelines: Ship Code to Azure in Minutes",
     "Helm Hooks: Run Jobs Before and After a Kubernetes Deploy",
     "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml",
-    "Helm Rollback: Undo a Bad Release in Under 30 Seconds"
+    "Helm Rollback: Undo a Bad Release in Under 30 Seconds",
+    "GitHub Actions Matrix Builds: Test on Multiple OS at Once"
   ],
-  "last_updated": "2026-10-05T09:15:40.228268"
+  "last_updated": "2026-10-06T09:08:01.198422"
 }
