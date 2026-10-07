@@ -79,7 +79,8 @@
     "Helm Hooks: Run Jobs Before and After a Kubernetes Deploy",
     "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml",
     "Helm Rollback: Undo a Bad Release in Under 30 Seconds",
-    "GitHub Actions Matrix Builds: Test on Multiple OS at Once"
+    "GitHub Actions Matrix Builds: Test on Multiple OS at Once",
+    "Helm Secrets Plugin: Keep Sensitive Values Out of Git"
   ],
-  "last_updated": "2026-10-06T09:08:01.198422"
+  "last_updated": "2026-10-07T08:56:07.535610"
 }
