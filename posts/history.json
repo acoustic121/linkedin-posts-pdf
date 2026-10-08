@@ -80,7 +80,8 @@
     "GitLab CI/CD: Build, Test & Deploy With One .gitlab-ci.yml",
     "Helm Rollback: Undo a Bad Release in Under 30 Seconds",
     "GitHub Actions Matrix Builds: Test on Multiple OS at Once",
-    "Helm Secrets Plugin: Keep Sensitive Values Out of Git"
+    "Helm Secrets Plugin: Keep Sensitive Values Out of Git",
+    "Jenkins vs GitLab CI/CD vs GitHub Actions: Which Should You Use?"
   ],
-  "last_updated": "2026-10-07T08:56:07.535610"
+  "last_updated": "2026-10-08T09:10:50.120445"
 }
