@@ -81,7 +81,8 @@
     "Helm Rollback: Undo a Bad Release in Under 30 Seconds",
     "GitHub Actions Matrix Builds: Test on Multiple OS at Once",
     "Helm Secrets Plugin: Keep Sensitive Values Out of Git",
-    "Jenkins vs GitLab CI/CD vs GitHub Actions: Which Should You Use?"
+    "Jenkins vs GitLab CI/CD vs GitHub Actions: Which Should You Use?",
+    "Git Rebase vs Merge: When to Use Which (and Why It Matters)"
   ],
-  "last_updated": "2026-10-08T09:10:50.120445"
+  "last_updated": "2026-10-09T09:19:48.121060"
 }
