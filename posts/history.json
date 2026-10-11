@@ -83,7 +83,8 @@
     "Helm Secrets Plugin: Keep Sensitive Values Out of Git",
     "Jenkins vs GitLab CI/CD vs GitHub Actions: Which Should You Use?",
     "Git Rebase vs Merge: When to Use Which (and Why It Matters)",
-    "GitHub Actions: Build a Full CI Pipeline for a Node App"
+    "GitHub Actions: Build a Full CI Pipeline for a Node App",
+    "Git Tags & Semantic Versioning: Release Your Code Properly"
   ],
-  "last_updated": "2026-10-10T08:40:52.648048"
+  "last_updated": "2026-10-11T09:04:55.576717"
 }
