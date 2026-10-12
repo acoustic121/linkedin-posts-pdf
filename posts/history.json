@@ -84,7 +84,8 @@
     "Jenkins vs GitLab CI/CD vs GitHub Actions: Which Should You Use?",
     "Git Rebase vs Merge: When to Use Which (and Why It Matters)",
     "GitHub Actions: Build a Full CI Pipeline for a Node App",
-    "Git Tags & Semantic Versioning: Release Your Code Properly"
+    "Git Tags & Semantic Versioning: Release Your Code Properly",
+    "GitHub Actions Secrets: Store API Keys the Safe Way"
   ],
-  "last_updated": "2026-10-11T09:04:55.576717"
+  "last_updated": "2026-10-12T09:27:31.412616"
 }
