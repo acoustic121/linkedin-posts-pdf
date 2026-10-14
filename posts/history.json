@@ -86,7 +86,8 @@
     "GitHub Actions: Build a Full CI Pipeline for a Node App",
     "Git Tags & Semantic Versioning: Release Your Code Properly",
     "GitHub Actions Secrets: Store API Keys the Safe Way",
-    "Git Stash: Save Your Work Without Committing"
+    "Git Stash: Save Your Work Without Committing",
+    "GitHub Actions Caching: Speed Up Your Workflows for Free"
   ],
-  "last_updated": "2026-10-13T09:34:36.639993"
+  "last_updated": "2026-10-14T07:48:35.832496"
 }
