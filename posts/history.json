@@ -87,7 +87,8 @@
     "Git Tags & Semantic Versioning: Release Your Code Properly",
     "GitHub Actions Secrets: Store API Keys the Safe Way",
     "Git Stash: Save Your Work Without Committing",
-    "GitHub Actions Caching: Speed Up Your Workflows for Free"
+    "GitHub Actions Caching: Speed Up Your Workflows for Free",
+    "Git Cherry-Pick: Grab a Single Commit Without a Full Merge"
   ],
-  "last_updated": "2026-10-14T07:48:35.832496"
+  "last_updated": "2026-10-15T07:34:54.816777"
 }
