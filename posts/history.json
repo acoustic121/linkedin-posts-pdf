@@ -88,7 +88,8 @@
     "GitHub Actions Secrets: Store API Keys the Safe Way",
     "Git Stash: Save Your Work Without Committing",
     "GitHub Actions Caching: Speed Up Your Workflows for Free",
-    "Git Cherry-Pick: Grab a Single Commit Without a Full Merge"
+    "Git Cherry-Pick: Grab a Single Commit Without a Full Merge",
+    "GitHub Actions Self-Hosted Runners: Run Pipelines on Your Server"
   ],
-  "last_updated": "2026-10-15T07:34:54.816777"
+  "last_updated": "2026-10-16T07:21:26.431248"
 }
