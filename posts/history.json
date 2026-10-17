@@ -89,7 +89,8 @@
     "Git Stash: Save Your Work Without Committing",
     "GitHub Actions Caching: Speed Up Your Workflows for Free",
     "Git Cherry-Pick: Grab a Single Commit Without a Full Merge",
-    "GitHub Actions Self-Hosted Runners: Run Pipelines on Your Server"
+    "GitHub Actions Self-Hosted Runners: Run Pipelines on Your Server",
+    "Git Hooks: Automate Checks Before Every Commit"
   ],
-  "last_updated": "2026-10-16T07:21:26.431248"
+  "last_updated": "2026-10-17T07:03:44.618620"
 }
