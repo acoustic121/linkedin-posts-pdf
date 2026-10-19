@@ -91,7 +91,8 @@
     "Git Cherry-Pick: Grab a Single Commit Without a Full Merge",
     "GitHub Actions Self-Hosted Runners: Run Pipelines on Your Server",
     "Git Hooks: Automate Checks Before Every Commit",
-    "GitHub Actions OIDC: Connect to Cloud Without Storing Secrets"
+    "GitHub Actions OIDC: Connect to Cloud Without Storing Secrets",
+    "Microsoft Azure 101: Core Services Every Cloud Beginner Needs"
   ],
-  "last_updated": "2026-10-18T07:18:23.284275"
+  "last_updated": "2026-10-19T07:56:17.559083"
 }
