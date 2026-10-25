@@ -97,7 +97,8 @@
     "Azure Resource Groups: Organise Your Cloud Like a Tidy Folder",
     "SRE 101: What Site Reliability Engineers Actually Do All Day",
     "Azure Virtual Networks: Cloud Networking Made Simple",
-    "vCenter Snapshots: Save & Restore VMs the Right Way"
+    "vCenter Snapshots: Save & Restore VMs the Right Way",
+    "Azure Monitor & Alerts: Know When Something Breaks Before Users Do"
   ],
-  "last_updated": "2026-10-24T07:26:01.745923"
+  "last_updated": "2026-10-25T07:41:08.686375"
 }
