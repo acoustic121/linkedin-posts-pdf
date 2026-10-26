@@ -98,7 +98,8 @@
     "SRE 101: What Site Reliability Engineers Actually Do All Day",
     "Azure Virtual Networks: Cloud Networking Made Simple",
     "vCenter Snapshots: Save & Restore VMs the Right Way",
-    "Azure Monitor & Alerts: Know When Something Breaks Before Users Do"
+    "Azure Monitor & Alerts: Know When Something Breaks Before Users Do",
+    "SRE Error Budgets: How to Balance Features vs Reliability"
   ],
-  "last_updated": "2026-10-25T07:41:08.686375"
+  "last_updated": "2026-10-26T07:56:12.183444"
 }
