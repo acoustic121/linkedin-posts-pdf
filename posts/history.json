@@ -101,7 +101,8 @@
     "Azure Monitor & Alerts: Know When Something Breaks Before Users Do",
     "SRE Error Budgets: How to Balance Features vs Reliability",
     "Azure Active Directory: Manage Users & Access in the Cloud",
-    "SRE Runbooks: Document Everything So 3 AM Doesn't Hurt"
+    "SRE Runbooks: Document Everything So 3 AM Doesn't Hurt",
+    "Terraform State File Explained: What It Is and Why It Matters"
   ],
-  "last_updated": "2026-10-28T08:44:46.344726"
+  "last_updated": "2026-10-29T08:40:58.921809"
 }
