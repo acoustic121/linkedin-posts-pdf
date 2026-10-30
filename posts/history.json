@@ -102,7 +102,8 @@
     "SRE Error Budgets: How to Balance Features vs Reliability",
     "Azure Active Directory: Manage Users & Access in the Cloud",
     "SRE Runbooks: Document Everything So 3 AM Doesn't Hurt",
-    "Terraform State File Explained: What It Is and Why It Matters"
+    "Terraform State File Explained: What It Is and Why It Matters",
+    "Terraform Backends: Store State Remotely and Safely"
   ],
-  "last_updated": "2026-10-29T08:40:58.921809"
+  "last_updated": "2026-10-30T08:46:49.512931"
 }
