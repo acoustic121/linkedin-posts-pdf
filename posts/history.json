@@ -103,7 +103,8 @@
     "Azure Active Directory: Manage Users & Access in the Cloud",
     "SRE Runbooks: Document Everything So 3 AM Doesn't Hurt",
     "Terraform State File Explained: What It Is and Why It Matters",
-    "Terraform Backends: Store State Remotely and Safely"
+    "Terraform Backends: Store State Remotely and Safely",
+    "Azure Provider in Terraform: Deploy Resources to Azure in Minutes"
   ],
-  "last_updated": "2026-10-30T08:46:49.512931"
+  "last_updated": "2026-10-31T08:34:27.845062"
 }
