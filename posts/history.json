@@ -104,7 +104,8 @@
     "SRE Runbooks: Document Everything So 3 AM Doesn't Hurt",
     "Terraform State File Explained: What It Is and Why It Matters",
     "Terraform Backends: Store State Remotely and Safely",
-    "Azure Provider in Terraform: Deploy Resources to Azure in Minutes"
+    "Azure Provider in Terraform: Deploy Resources to Azure in Minutes",
+    "Terraform Remote State in Azure Storage: Step-by-Step Guide"
   ],
-  "last_updated": "2026-10-31T08:34:27.845062"
+  "last_updated": "2026-11-01T09:25:34.511684"
 }
