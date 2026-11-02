@@ -105,7 +105,8 @@
     "Terraform State File Explained: What It Is and Why It Matters",
     "Terraform Backends: Store State Remotely and Safely",
     "Azure Provider in Terraform: Deploy Resources to Azure in Minutes",
-    "Terraform Remote State in Azure Storage: Step-by-Step Guide"
+    "Terraform Remote State in Azure Storage: Step-by-Step Guide",
+    "Terraform Import: Bring Existing Infrastructure Under IaC Control"
   ],
-  "last_updated": "2026-11-01T09:25:34.511684"
+  "last_updated": "2026-11-02T09:41:08.369960"
 }
