@@ -107,7 +107,8 @@
     "Azure Provider in Terraform: Deploy Resources to Azure in Minutes",
     "Terraform Remote State in Azure Storage: Step-by-Step Guide",
     "Terraform Import: Bring Existing Infrastructure Under IaC Control",
-    "Terraform taint & replace: Force-Recreate a Broken Resource"
+    "Terraform taint & replace: Force-Recreate a Broken Resource",
+    "Terraform Data Sources: Read Existing Cloud Resources in Code"
   ],
-  "last_updated": "2026-11-03T09:44:41.663940"
+  "last_updated": "2026-11-04T09:30:44.621532"
 }
