@@ -108,7 +108,8 @@
     "Terraform Remote State in Azure Storage: Step-by-Step Guide",
     "Terraform Import: Bring Existing Infrastructure Under IaC Control",
     "Terraform taint & replace: Force-Recreate a Broken Resource",
-    "Terraform Data Sources: Read Existing Cloud Resources in Code"
+    "Terraform Data Sources: Read Existing Cloud Resources in Code",
+    "Terraform for_each & count: Stop Copy-Pasting Resource Blocks"
   ],
-  "last_updated": "2026-11-04T09:30:44.621532"
+  "last_updated": "2026-11-05T09:39:40.448650"
 }
