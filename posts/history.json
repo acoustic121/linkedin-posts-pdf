@@ -109,7 +109,8 @@
     "Terraform Import: Bring Existing Infrastructure Under IaC Control",
     "Terraform taint & replace: Force-Recreate a Broken Resource",
     "Terraform Data Sources: Read Existing Cloud Resources in Code",
-    "Terraform for_each & count: Stop Copy-Pasting Resource Blocks"
+    "Terraform for_each & count: Stop Copy-Pasting Resource Blocks",
+    "Terraform Cloud: Free Remote State & CI/CD for Your Infra"
   ],
-  "last_updated": "2026-11-05T09:39:40.448650"
+  "last_updated": "2026-11-06T09:33:29.760672"
 }
