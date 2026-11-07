@@ -110,7 +110,8 @@
     "Terraform taint & replace: Force-Recreate a Broken Resource",
     "Terraform Data Sources: Read Existing Cloud Resources in Code",
     "Terraform for_each & count: Stop Copy-Pasting Resource Blocks",
-    "Terraform Cloud: Free Remote State & CI/CD for Your Infra"
+    "Terraform Cloud: Free Remote State & CI/CD for Your Infra",
+    "Deploy Azure VMs, VNets & NSGs With Terraform: Full Example"
   ],
-  "last_updated": "2026-11-06T09:33:29.760672"
+  "last_updated": "2026-11-07T08:57:51.041352"
 }
