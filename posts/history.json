@@ -113,7 +113,8 @@
     "Terraform Cloud: Free Remote State & CI/CD for Your Infra",
     "Deploy Azure VMs, VNets & NSGs With Terraform: Full Example",
     "AKS Explained: Run Kubernetes on Azure Without Managing Masters",
-    "Deploy Your First App to AKS: Step-by-Step Beginner Guide"
+    "Deploy Your First App to AKS: Step-by-Step Beginner Guide",
+    "AKS Node Pools: Mix VM Sizes for Cost & Performance"
   ],
-  "last_updated": "2026-11-09T09:57:40.548667"
+  "last_updated": "2026-11-09T10:58:49.717152"
 }
