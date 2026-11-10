@@ -114,7 +114,8 @@
     "Deploy Azure VMs, VNets & NSGs With Terraform: Full Example",
     "AKS Explained: Run Kubernetes on Azure Without Managing Masters",
     "Deploy Your First App to AKS: Step-by-Step Beginner Guide",
-    "AKS Node Pools: Mix VM Sizes for Cost & Performance"
+    "AKS Node Pools: Mix VM Sizes for Cost & Performance",
+    "AKS RBAC & Azure AD Integration: Secure Who Can Touch Your Cluster"
   ],
-  "last_updated": "2026-11-09T10:58:49.717152"
+  "last_updated": "2026-11-10T10:06:03.085598"
 }
