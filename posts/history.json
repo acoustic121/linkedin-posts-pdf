@@ -116,7 +116,8 @@
     "Deploy Your First App to AKS: Step-by-Step Beginner Guide",
     "AKS Node Pools: Mix VM Sizes for Cost & Performance",
     "AKS RBAC & Azure AD Integration: Secure Who Can Touch Your Cluster",
-    "AKS Ingress with NGINX: Route External Traffic to Your Services"
+    "AKS Ingress with NGINX: Route External Traffic to Your Services",
+    "AKS Cluster Autoscaler: Scale Nodes Up & Down Automatically"
   ],
-  "last_updated": "2026-11-11T09:37:27.776539"
+  "last_updated": "2026-11-12T09:58:15.934973"
 }
