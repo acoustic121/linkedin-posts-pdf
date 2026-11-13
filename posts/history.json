@@ -117,7 +117,8 @@
     "AKS Node Pools: Mix VM Sizes for Cost & Performance",
     "AKS RBAC & Azure AD Integration: Secure Who Can Touch Your Cluster",
     "AKS Ingress with NGINX: Route External Traffic to Your Services",
-    "AKS Cluster Autoscaler: Scale Nodes Up & Down Automatically"
+    "AKS Cluster Autoscaler: Scale Nodes Up & Down Automatically",
+    "AKS Monitoring With Azure Monitor & Container Insights"
   ],
-  "last_updated": "2026-11-12T09:58:15.934973"
+  "last_updated": "2026-11-13T09:46:26.075188"
 }
