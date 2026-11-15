@@ -119,7 +119,8 @@
     "AKS Ingress with NGINX: Route External Traffic to Your Services",
     "AKS Cluster Autoscaler: Scale Nodes Up & Down Automatically",
     "AKS Monitoring With Azure Monitor & Container Insights",
-    "AKS Persistent Storage: Use Azure Disks & File Shares in Pods"
+    "AKS Persistent Storage: Use Azure Disks & File Shares in Pods",
+    "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically"
   ],
-  "last_updated": "2026-11-14T09:07:47.280234"
+  "last_updated": "2026-11-15T09:38:06.004812"
 }
