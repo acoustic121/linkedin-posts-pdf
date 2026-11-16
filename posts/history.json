@@ -120,7 +120,8 @@
     "AKS Cluster Autoscaler: Scale Nodes Up & Down Automatically",
     "AKS Monitoring With Azure Monitor & Container Insights",
     "AKS Persistent Storage: Use Azure Disks & File Shares in Pods",
-    "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically"
+    "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically",
+    "Provision AKS With Terraform: Full Infrastructure as Code Example"
   ],
-  "last_updated": "2026-11-15T09:38:06.004812"
+  "last_updated": "2026-11-16T09:56:39.447418"
 }
