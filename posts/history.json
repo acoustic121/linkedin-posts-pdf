@@ -121,7 +121,8 @@
     "AKS Monitoring With Azure Monitor & Container Insights",
     "AKS Persistent Storage: Use Azure Disks & File Shares in Pods",
     "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically",
-    "Provision AKS With Terraform: Full Infrastructure as Code Example"
+    "Provision AKS With Terraform: Full Infrastructure as Code Example",
+    "Azure Active Directory (Entra ID): Identity & SSO Explained Simply"
   ],
-  "last_updated": "2026-11-16T09:56:39.447418"
+  "last_updated": "2026-11-17T10:52:20.706068"
 }
