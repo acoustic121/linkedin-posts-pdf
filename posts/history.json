@@ -122,7 +122,8 @@
     "AKS Persistent Storage: Use Azure Disks & File Shares in Pods",
     "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically",
     "Provision AKS With Terraform: Full Infrastructure as Code Example",
-    "Azure Active Directory (Entra ID): Identity & SSO Explained Simply"
+    "Azure Active Directory (Entra ID): Identity & SSO Explained Simply",
+    "Azure RBAC: Control Who Can Touch Your Cloud Resources"
   ],
-  "last_updated": "2026-11-17T10:52:20.706068"
+  "last_updated": "2026-11-18T10:23:18.364603"
 }
