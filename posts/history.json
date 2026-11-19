@@ -123,7 +123,8 @@
     "GitOps on AKS With Flux or ArgoCD: Deploy From Git Automatically",
     "Provision AKS With Terraform: Full Infrastructure as Code Example",
     "Azure Active Directory (Entra ID): Identity & SSO Explained Simply",
-    "Azure RBAC: Control Who Can Touch Your Cloud Resources"
+    "Azure RBAC: Control Who Can Touch Your Cloud Resources",
+    "Azure Availability Zones: Build Apps That Survive a Data Centre Failure"
   ],
-  "last_updated": "2026-11-18T10:23:18.364603"
+  "last_updated": "2026-11-19T10:31:06.058996"
 }
