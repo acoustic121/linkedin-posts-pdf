@@ -124,7 +124,8 @@
     "Provision AKS With Terraform: Full Infrastructure as Code Example",
     "Azure Active Directory (Entra ID): Identity & SSO Explained Simply",
     "Azure RBAC: Control Who Can Touch Your Cloud Resources",
-    "Azure Availability Zones: Build Apps That Survive a Data Centre Failure"
+    "Azure Availability Zones: Build Apps That Survive a Data Centre Failure",
+    "Azure VNet & Subnets: Cloud Networking Basics Every Engineer Must Know"
   ],
-  "last_updated": "2026-11-19T10:31:06.058996"
+  "last_updated": "2026-11-24T13:56:38.105269"
 }
