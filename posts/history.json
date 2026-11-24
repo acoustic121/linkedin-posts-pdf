@@ -129,7 +129,8 @@
     "Network Security Groups (NSG): Azure Firewall Rules Made Simple",
     "Azure Key Vault: Never Store Secrets in Code Again",
     "Azure Managed Identity: Let Your App Authenticate Without Passwords",
-    "Azure Load Balancer vs Application Gateway: Which One Do You Need?"
+    "Azure Load Balancer vs Application Gateway: Which One Do You Need?",
+    "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure"
   ],
-  "last_updated": "2026-11-24T15:18:35.579402"
+  "last_updated": "2026-11-24T15:22:03.232909"
 }
