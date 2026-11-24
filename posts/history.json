@@ -130,7 +130,8 @@
     "Azure Key Vault: Never Store Secrets in Code Again",
     "Azure Managed Identity: Let Your App Authenticate Without Passwords",
     "Azure Load Balancer vs Application Gateway: Which One Do You Need?",
-    "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure"
+    "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure",
+    "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions"
   ],
-  "last_updated": "2026-11-24T15:22:03.232909"
+  "last_updated": "2026-11-24T15:31:04.525642"
 }
