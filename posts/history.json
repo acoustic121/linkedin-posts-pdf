@@ -126,7 +126,8 @@
     "Azure RBAC: Control Who Can Touch Your Cloud Resources",
     "Azure Availability Zones: Build Apps That Survive a Data Centre Failure",
     "Azure VNet & Subnets: Cloud Networking Basics Every Engineer Must Know",
-    "Network Security Groups (NSG): Azure Firewall Rules Made Simple"
+    "Network Security Groups (NSG): Azure Firewall Rules Made Simple",
+    "Azure Key Vault: Never Store Secrets in Code Again"
   ],
-  "last_updated": "2026-11-24T14:08:45.697392"
+  "last_updated": "2026-11-24T14:09:43.243805"
 }
