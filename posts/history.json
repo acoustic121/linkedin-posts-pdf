@@ -128,7 +128,8 @@
     "Azure VNet & Subnets: Cloud Networking Basics Every Engineer Must Know",
     "Network Security Groups (NSG): Azure Firewall Rules Made Simple",
     "Azure Key Vault: Never Store Secrets in Code Again",
-    "Azure Managed Identity: Let Your App Authenticate Without Passwords"
+    "Azure Managed Identity: Let Your App Authenticate Without Passwords",
+    "Azure Load Balancer vs Application Gateway: Which One Do You Need?"
   ],
-  "last_updated": "2026-11-24T14:10:53.924706"
+  "last_updated": "2026-11-24T15:18:35.579402"
 }
