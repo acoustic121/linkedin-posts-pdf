@@ -131,7 +131,8 @@
     "Azure Managed Identity: Let Your App Authenticate Without Passwords",
     "Azure Load Balancer vs Application Gateway: Which One Do You Need?",
     "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure",
-    "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions"
+    "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions",
+    "Azure Availability Sets: Protect VMs From Planned & Unplanned Downtime"
   ],
-  "last_updated": "2026-11-24T15:31:04.525642"
+  "last_updated": "2026-11-25T11:29:10.880260"
 }
