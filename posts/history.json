@@ -132,7 +132,8 @@
     "Azure Load Balancer vs Application Gateway: Which One Do You Need?",
     "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure",
     "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions",
-    "Azure Availability Sets: Protect VMs From Planned & Unplanned Downtime"
+    "Azure Availability Sets: Protect VMs From Planned & Unplanned Downtime",
+    "Azure Blob vs File Storage: Which One to Use and When"
   ],
-  "last_updated": "2026-11-25T11:29:10.880260"
+  "last_updated": "2026-11-26T11:09:08.570226"
 }
