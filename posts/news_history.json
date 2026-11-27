@@ -1204,7 +1204,18 @@
     "Tracking Diseases Cured by AI",
     "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
     "42 state AGs are trying to stop Character.AI from selling users\u2019 chats",
-    "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future"
+    "Google\u2019s patent for custom AI video feeds paints a bleak picture of entertainment\u2019s future",
+    "Claude Code gets background notifications",
+    "https://dev.to/diogo_mendes_13ae8cdfc61e/get-notified-when-claude-code-needs-approval-or-finishes-49bf",
+    "Tencent open-sources DFly2 for faster AI decoding",
+    "https://www.marktechpost.com/2026/11/26/tencent-dfly2-speculative-decoding-sparse-models/",
+    "Multi-agent AI systems get a training blueprint",
+    "https://huggingface.co/blog/training-swarms",
+    "Android\u2019s DIY widgets are a bit of vibe-coding fun",
+    "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems"
   ],
-  "last_updated": "2026-11-26T22:29:37.500624"
+  "last_updated": "2026-11-27T22:11:44.369487"
 }
