@@ -133,7 +133,8 @@
     "Azure VNET Peering & ExpressRoute: Connect Networks Across Azure",
     "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions",
     "Azure Availability Sets: Protect VMs From Planned & Unplanned Downtime",
-    "Azure Blob vs File Storage: Which One to Use and When"
+    "Azure Blob vs File Storage: Which One to Use and When",
+    "Azure App Service: Deploy Web Apps Without Managing Servers"
   ],
-  "last_updated": "2026-11-26T11:09:08.570226"
+  "last_updated": "2026-11-27T11:01:33.208298"
 }
