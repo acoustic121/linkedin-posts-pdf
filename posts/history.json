@@ -134,7 +134,8 @@
     "Azure Policy & Blueprints: Enforce Governance Across Your Subscriptions",
     "Azure Availability Sets: Protect VMs From Planned & Unplanned Downtime",
     "Azure Blob vs File Storage: Which One to Use and When",
-    "Azure App Service: Deploy Web Apps Without Managing Servers"
+    "Azure App Service: Deploy Web Apps Without Managing Servers",
+    "Azure Functions: Run Code on Demand Without a Server"
   ],
-  "last_updated": "2026-11-27T11:01:33.208298"
+  "last_updated": "2026-11-28T10:39:11.695146"
 }
